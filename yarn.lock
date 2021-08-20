@@ -5586,10 +5586,10 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-jszip@^3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/jszip/-/jszip-3.5.0.tgz"
-  integrity sha512-WRtu7TPCmYePR1nazfrtuF216cIVon/3GWOvHS9QR5bIwSbnxtdpma6un3jyGGNhHsKCSzn5Ypk+EkDRvTGiFA==
+jszip@^3.7.0:
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/jszip/-/jszip-3.7.0.tgz#9b8b995a4e7c9024653ce743e902076a82fdf4e6"
+  integrity sha512-Y2OlFIzrDOPWUnpU0LORIcDn2xN7rC9yKffFM/7pGhQuhO+SUhfm2trkJ/S5amjFvem0Y+1EALz/MEPkvHXVNw==
   dependencies:
     lie "~3.3.0"
     pako "~1.0.2"
@@ -6175,10 +6175,10 @@ mkdirp@^0.5.0, mkdirp@^0.5.4, mkdirp@~0.5.1:
   dependencies:
     minimist "^1.2.5"
 
-mldoc@0.9.8:
-  version "0.9.8"
-  resolved "https://registry.yarnpkg.com/mldoc/-/mldoc-0.9.8.tgz#176cd5383002eadd2931a6e6ad54034ff67a8608"
-  integrity sha512-qj4issvoDV0hKR6zS3BLOZQkqaBb0oh4nzI/rxdfsxVf5KRBRdka0HVZ3ayLXaozWv9ozhd3qSYIM5m57VNB8w==
+mldoc@0.9.9:
+  version "0.9.9"
+  resolved "https://registry.yarnpkg.com/mldoc/-/mldoc-0.9.9.tgz#fc28b01efbdad362e446a935572761e39b2766f0"
+  integrity sha512-NzIetOLnPtoeO48HI1Z5/1UZc0RhZMqCCPO6ZGYwIgaqZO92qtpBK9M9xuBHLXGBjGqWyYSOiLtLiO7wAO9LOw==
   dependencies:
     yargs "^12.0.2"
 
