@@ -6175,10 +6175,10 @@ mkdirp@^0.5.0, mkdirp@^0.5.4, mkdirp@~0.5.1:
   dependencies:
     minimist "^1.2.5"
 
-mldoc@0.9.8:
-  version "0.9.8"
-  resolved "https://registry.yarnpkg.com/mldoc/-/mldoc-0.9.8.tgz#176cd5383002eadd2931a6e6ad54034ff67a8608"
-  integrity sha512-qj4issvoDV0hKR6zS3BLOZQkqaBb0oh4nzI/rxdfsxVf5KRBRdka0HVZ3ayLXaozWv9ozhd3qSYIM5m57VNB8w==
+mldoc@0.9.9:
+  version "0.9.9"
+  resolved "https://registry.yarnpkg.com/mldoc/-/mldoc-0.9.9.tgz#fc28b01efbdad362e446a935572761e39b2766f0"
+  integrity sha512-NzIetOLnPtoeO48HI1Z5/1UZc0RhZMqCCPO6ZGYwIgaqZO92qtpBK9M9xuBHLXGBjGqWyYSOiLtLiO7wAO9LOw==
   dependencies:
     yargs "^12.0.2"
 
@@ -6798,9 +6798,9 @@ path-key@^3.0.0, path-key@^3.1.0:
   integrity sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q==
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-platform@~0.11.15:
   version "0.11.15"
